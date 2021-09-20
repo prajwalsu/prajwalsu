@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm prajwalsu</h1>
+![](https://drive.google.com/file/d/1SZ6iOXSIxENlClY2JMxjfzs0yZii9ngW/view?usp=sharing)
+
+<h1 align="center">Hi 👋, I'm prajwalsu </h1>
 <h3 align="center">I am a frontend developer</h3>
 
 - 🔭 I’m currently a CSE student and**intern at verzeo**
