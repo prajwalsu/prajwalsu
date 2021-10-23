@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **prajwalsu31.gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/10mL78DGg3qbluJdgY0UcJS4dUn-bTO00cqoFHJDx5UQ/edit?usp=sharing">RESUME</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kTiKVqmlS98TcYBZLTyg8B1PiG1HT2du/view?usp=sharing">RESUME</a>
 
 - ⚡ Fun fact **don't know anything, but trying to do something**
 
