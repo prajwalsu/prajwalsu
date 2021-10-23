@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **.....**
 
-- 👨‍💻 All of my projects are available at <a href="https://prajwalsu.github.io/Portfolio/">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="https://prajwalsu.github.io/My-Portfolio/">PORTFOLIO</a>
 
 - 💬 Ask me about **my projects and updates**
 
 - 📫 How to reach me **prajwalsu31.gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jBR0XVOAL4X8UamTv2bdAIvk0Yj4XvFV/view?usp=sharing">RESUME</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/10mL78DGg3qbluJdgY0UcJS4dUn-bTO00cqoFHJDx5UQ/edit?usp=sharing">RESUME</a>
 
 - ⚡ Fun fact **don't know anything, but trying to do something**
 
