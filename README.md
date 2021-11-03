@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a CSE student and**intern at verzeo**
 
-- 🌱 I’m currently learning **python full stack development and learning ML using python**
+- 🌱 I’m currently learning **python full stack development and ML using python**
 
 - 👯 I’m looking to collaborate on **training database using ML to analyse questions and  give answer**
 
