@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajwal ! </h1>
 <h3 align="center">I am a student from INDIA</h3>
 
-- 🔭 I’m currently a CSE student and**intern at verzeo**
+- 🔭 I’m currently working as a Traniee Engineer at ThoughtFocus
 
-- 🌱 I’m currently learning **python full stack development and ML using python**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👯 I’m looking to collaborate on **training database using ML to analyse questions and  give answer**
 
