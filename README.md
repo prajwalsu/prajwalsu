@@ -1,7 +1,7 @@
 ![](https://github.com/prajwalsu/Portfolio/blob/master/WhatsApp%20Image%202021-09-20%20at%2022.53.45.jpeg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajwal ! </h1>
-<h3 align="center">I am a student from INDIA</h3>
+<h3 align="center">I am a developer from INDIA</h3>
 
 - 🔭 I’m currently working as a Traniee Engineer at ThoughtFocus
 
